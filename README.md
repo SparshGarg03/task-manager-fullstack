@@ -1,6 +1,6 @@
 # Task Manager - Full Stack Application
 
-A simple task management application built with React.js and Node.js.
+Full-stack task management application built with React.js and Node.js.
 
 ## Features
 - ✅ Add new tasks
