@@ -82,6 +82,9 @@ task-manager/
 
 
 ## 📸 Screenshots
+![Main](screenshots/Main.png)
+![Task Complete](screenshots/Completed.png)
+![Task Delete](screenshots/Delete.png)
 
 ## Author
 Sparsh Garg
